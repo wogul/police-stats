@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "f7ef603261c64dfaa375",
-    "url": "/police-stats/static/css/main.efd49d45.chunk.css"
+    "revision": "85130353ce09219a2ed9",
+    "url": "/police-stats/static/css/main.610d7e3c.chunk.css"
   },
   {
-    "revision": "f7ef603261c64dfaa375",
-    "url": "/police-stats/static/js/main.f7ef6032.chunk.js"
+    "revision": "85130353ce09219a2ed9",
+    "url": "/police-stats/static/js/main.85130353.chunk.js"
   },
   {
-    "revision": "fa92c112869d3657d47b",
-    "url": "/police-stats/static/js/1.fa92c112.chunk.js"
+    "revision": "77b6c15f76169f84e1da",
+    "url": "/police-stats/static/js/1.77b6c15f.chunk.js"
   },
   {
     "revision": "57368afb3ba6e7cdca96",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/police-stats/static/media/falconheavy.4398c5c2.jpg"
   },
   {
-    "revision": "d00d503e797f9bf63ecfc77db7607bf8",
+    "revision": "5250b66cce127ae3c8f5055d45e2da29",
     "url": "/police-stats/index.html"
   }
 ];
