@@ -16,6 +16,18 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
+  /* The image used */
+  background-image: url("backgrounds/falconheavy.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 .App-link {
